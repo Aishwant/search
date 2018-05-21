@@ -1,0 +1,1 @@
+The program produces text from a given png image
