@@ -8,6 +8,7 @@
 <br />
 search_result = google.search("query",num_of_page) #storing the specified page results in the variable
 <br />
+<p>
 GoogleResult: <br />
     search_result.name # The title of the link<br />
     search_result.link # The external link<br />
@@ -18,4 +19,4 @@ GoogleResult: <br />
     search_result.page # What page this result was on (When searching more than one page)<br />
     search_result.index # What index on this page it was on<br />
     search_result.number_of_results # The total number of results the query returned<br />
-
+</p>
