@@ -1,13 +1,13 @@
-The program matches Text and produces results based on data provided in the input and through google search.
+### The program matches Text and produces results based on data provided in the input and through google search.
 
 
-** Installation of Google search Api library
+## Installation of Google search Api library
 
-*** pip install Google-Search-API
-*** pip install Google-Search-API --upgrade
-
+### pip install Google-Search-API
+### pip install Google-Search-API --upgrade
+<br />
 search_result = google.search("query",num_of_page) #storing the specified page results in the variable
-
+<br />
 GoogleResult: <br />
     search_result.name # The title of the link<br />
     search_result.link # The external link<br />
